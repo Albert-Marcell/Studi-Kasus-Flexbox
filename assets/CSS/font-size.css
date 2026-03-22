@@ -1,0 +1,29 @@
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+.playball-regular {
+font-family: "Playball", cursive;
+font-weight: 400;
+}
+
+.oswald-regular {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.oswald-semibold{
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+}
+
+.teks-kecil {
+    font-size: 9px;
+}
